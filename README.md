@@ -90,6 +90,8 @@ The selected threshold was:
 
 ```text
 0.21
+
+
 ## ⚠️ Limitations
 
 - The dataset is relatively small and may not represent the entire population.
@@ -103,12 +105,6 @@ SugarSense demonstrates how supervised machine learning can be used to develop a
 
 The project combines model comparison, cross-validation, threshold tuning, feature interpretation, and Streamlit deployment into a complete machine learning workflow.
 
-## 👨‍💻 Author
-
-**Aditya Dayal**
-
-B.Tech – Computer Science & Engineering  
-Specialization: Artificial Intelligence & Machine Learning
 
 ---
 
@@ -127,3 +123,12 @@ Specialization: Artificial Intelligence & Machine Learning
 
 ### 🔴 Higher Diabetes Risk
 ![Higher Risk](Screenshot (182).png)
+
+---
+## 👨‍💻 Author
+
+**Aditya Dayal**
+
+B.Tech – Computer Science & Engineering  
+Specialization: Artificial Intelligence & Machine Learning
+
