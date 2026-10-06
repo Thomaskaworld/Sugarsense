@@ -90,3 +90,40 @@ The selected threshold was:
 
 ```text
 0.21
+## ⚠️ Limitations
+
+- The dataset is relatively small and may not represent the entire population.
+- The model is intended for educational and screening purposes only.
+- Predictions should not be considered medical diagnoses.
+- Further validation using larger and more diverse clinical datasets would be required before real-world medical deployment.
+
+## 🎯 Conclusion
+
+SugarSense demonstrates how supervised machine learning can be used to develop an interpretable early diabetes risk screening system.
+
+The project combines model comparison, cross-validation, threshold tuning, feature interpretation, and Streamlit deployment into a complete machine learning workflow.
+
+## 👨‍💻 Author
+
+**Aditya Dayal**
+
+B.Tech – Computer Science & Engineering  
+Specialization: Artificial Intelligence & Machine Learning
+
+---
+
+⭐ If you found this project useful, feel free to explore the repository and try the live demo.
+
+## 📸 Application Screenshots
+
+### 🏠 SugarSense Dashboard
+![SugarSense Dashboard](Screenshot (178).png)
+
+### 📝 Patient Information
+![Patient Information](Screenshot (181).png)
+
+### 📊 Screening Result
+![Screening Result](Screenshot (183).png)
+
+### 🔴 Higher Diabetes Risk
+![Higher Risk](Screenshot (182).png)
