@@ -27,6 +27,14 @@ The project covers the complete machine learning workflow:
 - Threshold tuning
 - Feature importance analysis
 - Model deployment using Streamlit
+- Project overview
+- Key features
+- Technologies used
+- ML workflow
+- Model evaluation/results
+- Deployment
+- Limitations
+- Live demo link
 
 ---
 
